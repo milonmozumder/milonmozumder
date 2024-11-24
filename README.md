@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milonmozumder" alt="milonmozumder" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="hppts://raw.githubsercontent.com/devSouvik/master/gif3.gif">
+
 - 🔭 I’m currently working on [NDE Digital Market Web Site](http://203.76.123.211:8989)
 
 - 🌱 I’m currently learning **Updated automation testing**
